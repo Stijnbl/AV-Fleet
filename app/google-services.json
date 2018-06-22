@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "875073808444",
+    "firebase_url": "https://ikpmd5-44abf.firebaseio.com",
+    "project_id": "ikpmd5-44abf",
+    "storage_bucket": "ikpmd5-44abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875073808444:android:f74c804c97e140a9",
+        "android_client_info": {
+          "package_name": "com.example.stijn.ikpmd5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875073808444-597ffmk3q7h4d794sn7q6vc8q1ndcg11.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "875073808444-597ffmk3q7h4d794sn7q6vc8q1ndcg11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs0GEQpH0GyWf5vPqTD0dqRilzyZc3Kw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
